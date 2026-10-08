@@ -11,3 +11,5 @@ Hasil Uji Studi Kasus 2 oleh Muhammad nadzar al ghifay
 | 2  | Mandiri| 5       | 1          | Berhak    | Ya      |
 | 3  | Belmawa| 3       | 2          | tdk berhak| Ya      |
 | 4  | Lainya | 4       | tdk ditnykn| tdk berhak| Ya      |
+
+test
