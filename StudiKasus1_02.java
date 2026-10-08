@@ -10,8 +10,8 @@ public class StudiKasus1_02 {
         int diskon;
         int totalBayar;
         int kembalian;
-        int kurang;
         
+        int kurang;
         System.out.print("Jumlah cup yang di beli" );
         int jumlahCup= sc.nextInt();
         
